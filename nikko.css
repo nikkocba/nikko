@@ -1,0 +1,24 @@
+
+
+h1 {
+	text-align: center;
+}
+p {
+	text-align: center;
+}
+.myPanel {
+	border: 1px solid #687060;
+	border-radius: 5px;
+	margin: 3%; 
+	box-shadow: 0px 4px 4px #5c6066 ;
+	background: white;
+}
+.myPanel .header {
+	background: #46c3e2;
+	border-radius: 5px 5px 0 0;
+	color: #0d7691;
+	padding: 10px 20px;
+}
+.myPanel .body {
+	padding: 10px 20px;
+}
